@@ -8,7 +8,7 @@
             "server": "Our infrastructure is based on cloud,protected with firewalls and additional layers of security.The data centers we are using are protected 24/7 and we plan to run several relay nodes to further secure our stakepool. We monitor our servers 24/7 to prevent any downtime"
         },
         "social": {
-            "twitter_handle": "primestakepool"
+            "twitter_handle": "primestakepool",
             "telegram_handle": "primestakepool",
             "facebook_handle": "primestakepool",
             "youtube_handle": "primestakepool"
